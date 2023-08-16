@@ -23,7 +23,7 @@ body{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  background:#fed7e2;
+  background:red;
   border-bottom:5px black;
 
   
